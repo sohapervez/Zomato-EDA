@@ -4,9 +4,9 @@ The goal is to analyze restaurant data, understand trends, and derive actionable
 
 # Installation instructions
 
-git clone https://github.com/sohapervez/Zomato-EDA.git
-cd Zomato-EDA
-pip install -r requirements.txt
+- git clone https://github.com/sohapervez/Zomato-EDA.git
+- cd Zomato-EDA
+- pip install -r requirements.txt
 
 # Usage
 1. Open the Jupyter Notebook `eda_zomato.ipynb`.
@@ -16,5 +16,7 @@ pip install -r requirements.txt
 
 Languages: Python
 Libraries: pandas, numpy, matplotlib, seaborn.
+
+# Dataset
 
 - Dataset provided by Krish Naik: https://github.com/krishnaik06/5-Days-Live-EDA-and-Feature-Engineering
